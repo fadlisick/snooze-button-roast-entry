@@ -8,7 +8,7 @@ Gate: UTF-8 text, 1-200 characters, not only whitespace.
 import os
 import sys
 
-LINE = "The snooze button doesn't wake you up; it just reschedules your regret in nine-minute installments."
+LINE = "The snooze button lets you experience the thrill of unemployment in nine-minute free trials before reality charges your card."
 
 
 def check_gate(text):
